@@ -17,8 +17,8 @@ website:
       - href: index.qmd
         text: Inicio
       - orgs.qmd
-      - resources.qmd
       - people.qmd
+      - resources.qmd
 
 
 format:
