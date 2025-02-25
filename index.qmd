@@ -1,7 +1,32 @@
 ---
-title: "AI Cuba"
+title: "Comunidad IA Cuba"
 ---
 
-This is a Quarto website.
+Bienvenidos a la [**Comunidad IA de Cuba**](https://ai-cuba.github.io), una organización dedicada a aglutinar a todos los investigadores de Inteligencia Artificial en Cuba. Nuestro objetivo es crear un espacio colaborativo para académicos, investigadores de centros de investigación e industria, donde se pueda compartir información, datos, resultados de investigación y código.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Misión
+
+AI-Cuba busca fomentar la colaboración y el intercambio de conocimientos entre los investigadores de IA en Cuba, facilitando el acceso a recursos y promoviendo discusiones sobre temas relevantes en el campo de la inteligencia artificial.
+
+### ¿Qué ofrecemos?
+
+- [Información centralizada](https://ai-cuba.github.io): Un sitio web donde se puede encontrar información relevante sobre la comunidad, eventos y recursos disponibles.
+- [Espacio de colaboración](https://github.com/ai-cuba): Una organización de Github donde los miembros pueden compartir públicamente o de manera privada sus datos y resultados.
+- [Foro de discusión](https://github.com/orgs/AI-Cuba/discussions): Un lugar para debatir sobre temas de interés en IA, intercambiar ideas y resolver dudas.
+- [Organización de eventos](https://github.com/orgs/AI-Cuba/discussions/categories/eventos): Coordinamos talleres, conferencias y seminarios para promover el aprendizaje y la colaboración entre los miembros.
+
+### Cómo participar
+
+Todos los interesados en la investigación en IA son bienvenidos a unirse a AI-Cuba. Además de participar en nuestros [foros de discusión](https://github.com/orgs/AI-Cuba/discussions), puedes contribuir de las siguientes maneras:
+
+- [Crea un issue](https://github.com/AI-Cuba/ai-cuba.github.io/issues) para solicitar acceso a la organización y poder crear repositorios internos.
+- [Forkea este repositorio](https://github.com/AI-Cuba/ai-cuba.github.io/fork) para adicionar información a nuestro sitio web.
+
+## Recursos
+
+- [Organizaciones](organizaciones.qmd)
+- [Personas](personas.qmd)
+- [Investigación](research.qmd)
+- [Libros](libros.qmd)
+- [Cursos](cursos.qmd)
+- [Eventos](eventos.qmd)

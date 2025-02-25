@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AI Cuba",
+    "title": "Comunidad IA Cuba",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Bienvenidos a la Comunidad IA de Cuba, una organización dedicada a aglutinar a todos los investigadores de Inteligencia Artificial en Cuba. Nuestro objetivo es crear un espacio colaborativo para académicos, investigadores de centros de investigación e industria, donde se pueda compartir información, datos, resultados de investigación y código."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#misión",
+    "href": "index.html#misión",
+    "title": "Comunidad IA Cuba",
+    "section": "Misión",
+    "text": "Misión\nAI-Cuba busca fomentar la colaboración y el intercambio de conocimientos entre los investigadores de IA en Cuba, facilitando el acceso a recursos y promoviendo discusiones sobre temas relevantes en el campo de la inteligencia artificial.\n\n¿Qué ofrecemos?\n\nInformación centralizada: Un sitio web donde se puede encontrar información relevante sobre la comunidad, eventos y recursos disponibles.\nEspacio de colaboración: Una organización de Github donde los miembros pueden compartir públicamente o de manera privada sus datos y resultados.\nForo de discusión: Un lugar para debatir sobre temas de interés en IA, intercambiar ideas y resolver dudas.\nOrganización de eventos: Coordinamos talleres, conferencias y seminarios para promover el aprendizaje y la colaboración entre los miembros.\n\n\n\nCómo participar\nTodos los interesados en la investigación en IA son bienvenidos a unirse a AI-Cuba. Además de participar en nuestros foros de discusión, puedes contribuir de las siguientes maneras:\n\nCrea un issue para solicitar acceso a la organización y poder crear repositorios internos.\nForkea este repositorio para adicionar información a nuestro sitio web."
+  },
+  {
+    "objectID": "index.html#recursos",
+    "href": "index.html#recursos",
+    "title": "Comunidad IA Cuba",
+    "section": "Recursos",
+    "text": "Recursos\n\nOrganizaciones\nPersonas\nInvestigación\nLibros\nCursos\nEventos"
+  },
+  {
+    "objectID": "orgs.html",
+    "href": "orgs.html",
+    "title": "Organizaciones",
     "section": "",
-    "text": "About this site"
+    "text": "A continuación listamos organizaciones (instituciones, laboratorios, empresas, grupos) dedicados a la investigación y/o el desarrollo en temáticas de Inteligencia Artificial. Por cada organización se presenta una breve descripción y vínculos a sus páginas oficiales, cuentas en redes sociales, etc."
+  },
+  {
+    "objectID": "orgs.html#universidad-de-la-habana",
+    "href": "orgs.html#universidad-de-la-habana",
+    "title": "Organizaciones",
+    "section": "Universidad de La Habana",
+    "text": "Universidad de La Habana"
+  },
+  {
+    "objectID": "orgs.html#universidades",
+    "href": "orgs.html#universidades",
+    "title": "Organizaciones",
+    "section": "Universidades",
+    "text": "Universidades\n\nUniversidad de La Habana (UH)\n\nGrupo de Inteligencia Artificial y Ciencia de Datos, Facultad de Matemática y Computación.\nGrupo de Procesamiento de Imágenes, Facultad de Matemática y Computación.\nCentro de Sistemas Complejos, Facultad de Física.\n\n\n\nUniversidad Tecnológica de La Habana (CUJAE)\n\n\nUniversidad de las Ciencias Informáticas (UCI)\n\n\nUniversidad Central “Marta Abreu” de las Villas (UCLV)\n\n\nUniversidad de Camagüey (UC)\n\n\nUniversidad Oriente (UO)"
   }
 ]

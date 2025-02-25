@@ -1,0 +1,25 @@
+---
+title: Organizaciones
+---
+
+A continuación listamos organizaciones (instituciones, laboratorios, empresas, grupos) dedicados a la investigación y/o el desarrollo en temáticas de Inteligencia Artificial. Por cada organización se presenta una breve descripción y vínculos a sus páginas oficiales, cuentas en redes sociales, etc.
+
+> 📝 Para adicionar o modificar esta lista, [haga click aquí]().
+
+## Universidades
+
+### Universidad de La Habana (UH)
+
+- [Grupo de Inteligencia Artificial y Ciencia de Datos](https://gia-uh.github.io), Facultad de Matemática y Computación.
+- [Grupo de Procesamiento de Imágenes](), Facultad de Matemática y Computación.
+- [Centro de Sistemas Complejos](), Facultad de Física.
+
+### Universidad Tecnológica de La Habana (CUJAE)
+
+### Universidad de las Ciencias Informáticas (UCI)
+
+### Universidad Central "Marta Abreu" de las Villas (UCLV)
+
+### Universidad de Camagüey (UC)
+
+### Universidad Oriente (UO)
