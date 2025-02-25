@@ -47,5 +47,33 @@
     "title": "Personas",
     "section": "Universidad de La Habana",
     "text": "Universidad de La Habana\n\nDr.C. Yudivián Almeida Cruz: Jefe del Grupo de Inteligencia Artificial y Ciencia de Datos de la Universidad de La Habana, Vice-presidente del Consejo Científico de la Universidad de La Habana, Profesor Titular.\nDr.C. Suilan Estévez Velarde: Jefe del Departamento de Inteligencia Artificial y Sistemas Computacionales en la Universidad de La Habana, Profesor Titular.\nDr.C. Alejandro Piad Morffis: Vice-presidente de la Sociedad Cubana de Matemática y Computación, Profesor Titular."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Recursos",
+    "section": "",
+    "text": "En esta página se listan recursos (software, datasets, repositorios, etc.) creados por miembros de nuestra comunidad que pueden ser de interés para investigadores y tecnológos de la Inteligencia Artificial."
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Recursos",
+    "section": "Software",
+    "text": "Software\nAplicaciones, frameworks, bibliotecas de código desarrolladas por nuestra comunidad.\n\nAutoGOAL: Un framework libre, hecho en Python, para la generación automática de código y flujos de algoritmos de aprendizaje (AutoML).\nLETO: Una aplicación para el descubrimiento automático de conocimiento en fuentes de datos semi-estructuradas."
+  },
+  {
+    "objectID": "resources.html#datasets",
+    "href": "resources.html#datasets",
+    "title": "Recursos",
+    "section": "Datasets",
+    "text": "Datasets\nConjuntos de datos creados por nuestra comunidad."
+  },
+  {
+    "objectID": "resources.html#repositorios",
+    "href": "resources.html#repositorios",
+    "title": "Recursos",
+    "section": "Repositorios",
+    "text": "Repositorios\nColecciones de recursos, tesis, artículos, etc."
   }
 ]
