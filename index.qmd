@@ -20,13 +20,12 @@ AI-Cuba busca fomentar la colaboración y el intercambio de conocimientos entre 
 Todos los interesados en la investigación en IA son bienvenidos a unirse a AI-Cuba. Además de participar en nuestros [foros de discusión](https://github.com/orgs/AI-Cuba/discussions), puedes contribuir de las siguientes maneras:
 
 - [Crea un issue](https://github.com/AI-Cuba/ai-cuba.github.io/issues) para solicitar acceso a la organización y poder crear repositorios internos.
-- [Forkea este repositorio](https://github.com/AI-Cuba/ai-cuba.github.io/fork) para adicionar información a nuestro sitio web.
+- [Forkea este repositorio](https://github.com/AI-Cuba/ai-cuba.github.io/fork) para adicionar información a nuestro sitio web, o haz click en el link de **Editar** en cada página.
 
 ## Recursos
 
-- [Organizaciones](organizaciones.qmd)
-- [Personas](personas.qmd)
-- [Investigación](research.qmd)
-- [Libros](libros.qmd)
-- [Cursos](cursos.qmd)
-- [Eventos](eventos.qmd)
+- 🏛️ [Organizaciones](orgs.qmd)
+- 👥 [Personas](people.qmd)
+- 🤖 [Investigación](research.qmd)
+- 📚 [Educación](books.qmd)
+- 🎤 [Eventos](events.qmd)

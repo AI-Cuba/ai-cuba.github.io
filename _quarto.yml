@@ -4,6 +4,14 @@ project:
 
 website:
   title: "AI Cuba"
+  repo-url: https://github.com/ai-cuba/ai-cuba.github.io
+  repo-actions: [edit, issue]
+  page-footer:
+    left: "Copyright 2025, AI-Cuba"
+    right:
+      - icon: github
+        href: https://github.com/ai-cuba
+        aria-label: GitHub
   navbar:
     left:
       - href: index.qmd

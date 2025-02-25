@@ -11,14 +11,14 @@
     "href": "index.html#misión",
     "title": "Comunidad IA Cuba",
     "section": "Misión",
-    "text": "Misión\nAI-Cuba busca fomentar la colaboración y el intercambio de conocimientos entre los investigadores de IA en Cuba, facilitando el acceso a recursos y promoviendo discusiones sobre temas relevantes en el campo de la inteligencia artificial.\n\n¿Qué ofrecemos?\n\nInformación centralizada: Un sitio web donde se puede encontrar información relevante sobre la comunidad, eventos y recursos disponibles.\nEspacio de colaboración: Una organización de Github donde los miembros pueden compartir públicamente o de manera privada sus datos y resultados.\nForo de discusión: Un lugar para debatir sobre temas de interés en IA, intercambiar ideas y resolver dudas.\nOrganización de eventos: Coordinamos talleres, conferencias y seminarios para promover el aprendizaje y la colaboración entre los miembros.\n\n\n\nCómo participar\nTodos los interesados en la investigación en IA son bienvenidos a unirse a AI-Cuba. Además de participar en nuestros foros de discusión, puedes contribuir de las siguientes maneras:\n\nCrea un issue para solicitar acceso a la organización y poder crear repositorios internos.\nForkea este repositorio para adicionar información a nuestro sitio web."
+    "text": "Misión\nAI-Cuba busca fomentar la colaboración y el intercambio de conocimientos entre los investigadores de IA en Cuba, facilitando el acceso a recursos y promoviendo discusiones sobre temas relevantes en el campo de la inteligencia artificial.\n\n¿Qué ofrecemos?\n\nInformación centralizada: Un sitio web donde se puede encontrar información relevante sobre la comunidad, eventos y recursos disponibles.\nEspacio de colaboración: Una organización de Github donde los miembros pueden compartir públicamente o de manera privada sus datos y resultados.\nForo de discusión: Un lugar para debatir sobre temas de interés en IA, intercambiar ideas y resolver dudas.\nOrganización de eventos: Coordinamos talleres, conferencias y seminarios para promover el aprendizaje y la colaboración entre los miembros.\n\n\n\nCómo participar\nTodos los interesados en la investigación en IA son bienvenidos a unirse a AI-Cuba. Además de participar en nuestros foros de discusión, puedes contribuir de las siguientes maneras:\n\nCrea un issue para solicitar acceso a la organización y poder crear repositorios internos.\nForkea este repositorio para adicionar información a nuestro sitio web, o haz click en el link de Editar en cada página."
   },
   {
     "objectID": "index.html#recursos",
     "href": "index.html#recursos",
     "title": "Comunidad IA Cuba",
     "section": "Recursos",
-    "text": "Recursos\n\nOrganizaciones\nPersonas\nInvestigación\nLibros\nCursos\nEventos"
+    "text": "Recursos\n\n🏛️ Organizaciones\n👥 Personas\n🤖 Investigación\n📚 Educación\n🎤 Eventos"
   },
   {
     "objectID": "orgs.html",
@@ -26,13 +26,6 @@
     "title": "Organizaciones",
     "section": "",
     "text": "A continuación listamos organizaciones (instituciones, laboratorios, empresas, grupos) dedicados a la investigación y/o el desarrollo en temáticas de Inteligencia Artificial. Por cada organización se presenta una breve descripción y vínculos a sus páginas oficiales, cuentas en redes sociales, etc."
-  },
-  {
-    "objectID": "orgs.html#universidad-de-la-habana",
-    "href": "orgs.html#universidad-de-la-habana",
-    "title": "Organizaciones",
-    "section": "Universidad de La Habana",
-    "text": "Universidad de La Habana"
   },
   {
     "objectID": "orgs.html#universidades",
