@@ -18,7 +18,7 @@
     "href": "index.html#recursos",
     "title": "Comunidad IA Cuba",
     "section": "Recursos",
-    "text": "Recursos\n\n🏛️ Organizaciones\n👥 Personas\n🤖 Investigación\n📚 Educación\n🎤 Eventos"
+    "text": "Recursos\n\n🏛️ Organizaciones\n👥 Personas\n🎁 Recursos\n🤖 Investigación\n📚 Educación\n🎤 Eventos"
   },
   {
     "objectID": "orgs.html",
@@ -33,5 +33,19 @@
     "title": "Organizaciones",
     "section": "Universidades",
     "text": "Universidades\n\nUniversidad de La Habana (UH)\n\nGrupo de Inteligencia Artificial y Ciencia de Datos, Facultad de Matemática y Computación.\nGrupo de Procesamiento de Imágenes, Facultad de Matemática y Computación.\nCentro de Sistemas Complejos, Facultad de Física.\n\n\n\nUniversidad Tecnológica de La Habana (CUJAE)\n\n\nUniversidad de las Ciencias Informáticas (UCI)\n\n\nUniversidad Central “Marta Abreu” de las Villas (UCLV)\n\n\nUniversidad de Camagüey (UC)\n\n\nUniversidad Oriente (UO)"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Personas",
+    "section": "",
+    "text": "A continuación listamos algunos de los investigadores activos en el campo de la IA en Cuba."
+  },
+  {
+    "objectID": "people.html#universidad-de-la-habana",
+    "href": "people.html#universidad-de-la-habana",
+    "title": "Personas",
+    "section": "Universidad de La Habana",
+    "text": "Universidad de La Habana\n\nDr.C. Yudivián Almeida Cruz: Jefe del Grupo de Inteligencia Artificial y Ciencia de Datos de la Universidad de La Habana, Vice-presidente del Consejo Científico de la Universidad de La Habana, Profesor Titular.\nDr.C. Suilan Estévez Velarde: Jefe del Departamento de Inteligencia Artificial y Sistemas Computacionales en la Universidad de La Habana, Profesor Titular.\nDr.C. Alejandro Piad Morffis: Vice-presidente de la Sociedad Cubana de Matemática y Computación, Profesor Titular."
   }
 ]

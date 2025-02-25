@@ -26,6 +26,7 @@ Todos los interesados en la investigación en IA son bienvenidos a unirse a AI-C
 
 - 🏛️ [Organizaciones](orgs.qmd)
 - 👥 [Personas](people.qmd)
+- 🎁 [Recursos](resources.qmd)
 - 🤖 [Investigación](research.qmd)
 - 📚 [Educación](books.qmd)
 - 🎤 [Eventos](events.qmd)

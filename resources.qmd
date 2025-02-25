@@ -1,0 +1,24 @@
+---
+title: Recursos
+---
+
+En esta página se listan recursos (software, datasets, repositorios, etc.) creados por miembros de nuestra comunidad que pueden ser de interés para investigadores y tecnológos de la Inteligencia Artificial.
+
+::: {.callout-tip}
+Para editar esta página y agregar sus recursos, haga click en el link a la derecha.
+:::
+
+## Software
+
+Aplicaciones, frameworks, bibliotecas de código desarrolladas por nuestra comunidad.
+
+- [AutoGOAL](https://autogoal.github.io): Un framework libre, hecho en Python, para la generación automática de código y flujos de algoritmos de aprendizaje (AutoML).
+- [LETO](https://leto-ai.github.io): Una aplicación para el descubrimiento automático de conocimiento en fuentes de datos semi-estructuradas.
+
+## Datasets
+
+Conjuntos de datos creados por nuestra comunidad.
+
+## Repositorios
+
+Colecciones de recursos, tesis, artículos, etc.

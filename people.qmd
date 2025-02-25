@@ -1,0 +1,15 @@
+---
+title: Personas
+---
+
+A continuación listamos algunos de los investigadores activos en el campo de la IA en Cuba.
+
+::: {.callout-tip}
+Para editar esta página y agregar su nombre o el de sus colaboradores, haga click en el link a la derecha.
+:::
+
+## Universidad de La Habana
+
+- [Dr.C. Yudivián Almeida Cruz](): Jefe del Grupo de Inteligencia Artificial y Ciencia de Datos de la Universidad de La Habana, Vice-presidente del Consejo Científico de la Universidad de La Habana, Profesor Titular.
+- [Dr.C. Suilan Estévez Velarde](): Jefe del Departamento de Inteligencia Artificial y Sistemas Computacionales en la Universidad de La Habana, Profesor Titular.
+- [Dr.C. Alejandro Piad Morffis](https://apiad.net): Vice-presidente de la Sociedad Cubana de Matemática y Computación, Profesor Titular.

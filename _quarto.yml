@@ -17,6 +17,7 @@ website:
       - href: index.qmd
         text: Inicio
       - orgs.qmd
+      - people.qmd
 
 
 format:
